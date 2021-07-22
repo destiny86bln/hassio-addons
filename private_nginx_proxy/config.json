@@ -1,7 +1,7 @@
 {
   "name": "NGINX Home Assistant SSL proxy für Google Assistant",
-  "version": "0.0.2",
-  "slug": "private_nginx_proxy",
+  "version": "0.0.3",
+  "slug": "nginx_proxy",
   "description": "SSL/TLS proxy für Google Assistant",
   "url": "https://github.com/destiny86bln/hassio-addons/tree/master/nginx_proxy",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
