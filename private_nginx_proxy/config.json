@@ -34,5 +34,5 @@
       "servers": "str"
     }
   },
-  "image": "homeassistant/{arch}-addon-private_nginx_proxy"
+  "image": "homeassistant/{arch}-addon-nginx_proxy"
 }
